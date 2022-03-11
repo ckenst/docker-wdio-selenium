@@ -1,0 +1,22 @@
+{
+  "name": "docker-wdio-selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio",
+    "test:docker": "docker-compose up --build --abort-on-container-exit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^7.17.4"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.17.4",
+    "@wdio/mocha-framework": "^7.17.3",
+    "@wdio/spec-reporter": "^7.17.3",
+    "wdio-docker-service": "^3.2.0"
+  }
+}
