@@ -12,10 +12,10 @@
     "author": "Kevin Lamping, Chris Kenst",
     "license": "ISC",
     "devDependencies": {
-        "@wdio/cli": "^7.17.4",
-        "@wdio/local-runner": "^7.17.4",
-        "@wdio/mocha-framework": "^7.17.3",
-        "@wdio/spec-reporter": "^7.17.3",
+        "@wdio/cli": "^7.20.2",
+        "@wdio/local-runner": "^7.20.2",
+        "@wdio/mocha-framework": "^7.20.2",
+        "@wdio/spec-reporter": "^7.20.2",
         "wdio-docker-service": "^3.2.0"
     }
 }
