@@ -10,7 +10,7 @@ To run the tests via Docker:
 
 ### Credit
 
-Thanks to Kevin Lamping for creating the initial outline for this. Thanks to Promenade Group for hiring Kevin to do this (and other things). This is a similar configuration to how we run our WebdriverIO tests at Promenade Group. 
+Thanks to [Kevin Lamping](https://www.youtube.com/user/medigerati) for creating the initial outline for this. Thanks to [Promenade Group](http://getpromenade.com/) for hiring Kevin to do this (and other things). This is a similar configuration to how we run our WebdriverIO tests at Promenade Group. 
 
 ### Warranty
 
